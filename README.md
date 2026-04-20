@@ -27,7 +27,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  IDENTITY  :  Rohit Kumar Reddy Sakam                        ║
-║  ROLE      :  DevSecOps Engineer & Security Researcher       ║
+║  ROLE      :  Cloud Security Engineer & Security Researcher  ║
 ║  CLEARANCE :  Full-Stack Security • Red & Blue Team          ║
 ║  MISSION   :  Build security tools that actually work        ║
 ║  STATUS    :  [████████████░░] BUILDING                      ║
