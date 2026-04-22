@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,50:1a0030,100:0a1f3d&height=200&section=header&text=ROHIT%20KUMAR%20REDDY%20SAKAM&fontSize=32&fontColor=64FFDA&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20Engineer%20%7C%20Red%20%26%20Blue%20Team%20%7C%20DevSecOps&descSize=14&descAlignY=75&descColor=FF69B4" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0a0a1a,50:1a0030,100:0a1f3d&amp;height=200&amp;section=header&amp;text=ROHIT%20KUMAR%20REDDY%20SAKAM&amp;fontSize=32&amp;fontColor=64FFDA&amp;animation=fadeIn&amp;fontAlignY=55&amp;desc=Cybersecurity%20Engineer%20%7C%20Red%20%26%20Blue%20Team%20%7C%20DevSecOps&amp;descSize=14&amp;descAlignY=75&amp;descColor=FF69B4" />
 
 </div>
 
@@ -98,11 +98,11 @@ I build **production-grade security tooling** across the full threat lifecycle �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohitKumarReddySakam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=64FFDA&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF0080" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RohitKumarReddySakam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a1a&amp;title_color=64FFDA&amp;icon_color=FF69B4&amp;text_color=c9d1d9&amp;ring_color=FF0080" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitKumarReddySakam&theme=tokyonight&hide_border=true&background=0a0a1a&ring=64FFDA&fire=FF0080&currStreakLabel=FF69B4&sideLabels=64FFDA&sideNums=c9d1d9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitKumarReddySakam&amp;theme=tokyonight&amp;hide_border=true&amp;background=0a0a1a&amp;ring=64FFDA&amp;fire=FF0080&amp;currStreakLabel=FF69B4&amp;sideLabels=64FFDA&amp;sideNums=c9d1d9" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumarReddySakam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=64FFDA&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumarReddySakam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a1a&amp;title_color=64FFDA&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -156,7 +156,7 @@ ATT&CK Coverage by Project:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a0030,100:0a1f3d&height=100&section=footer&text=srkrcyber.com&fontSize=16&fontColor=64FFDA&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:1a0030,100:0a1f3d&amp;height=100&amp;section=footer&amp;text=srkrcyber.com&amp;fontSize=16&amp;fontColor=64FFDA&amp;animation=fadeIn&amp;fontAlignY=65" />
 
 **Rohit Kumar Reddy Sakam** · [srkrcyber.com](https://srkrcyber.com) · DevSecOps Engineer & Security Researcher
 
