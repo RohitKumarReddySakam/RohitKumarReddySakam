@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0a0a1a,50:1a0030,100:0a1f3d&amp;height=200&amp;section=header&amp;text=ROHIT%20KUMAR%20REDDY%20SAKAM&amp;fontSize=32&amp;fontColor=64FFDA&amp;animation=fadeIn&amp;fontAlignY=55&amp;desc=Cybersecurity%20Engineer%20%7C%20Red%20%26%20Blue%20Team%20%7C%20DevSecOps&amp;descSize=14&amp;descAlignY=75&amp;descColor=FF69B4" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0a0a1a,50:1a0030,100:0a1f3d&amp;height=200&amp;section=header&amp;text=ROHIT%20KUMAR%20REDDY%20SAKAM&amp;fontSize=32&amp;fontColor=64FFDA&amp;animation=fadeIn&amp;fontAlignY=55&amp;desc=Cybersecurity%20Engineer%20%7C%20Red%20%2B%20Blue%20Team%20%7C%20DevSecOps&amp;descSize=14&amp;descAlignY=75&amp;descColor=FF69B4" />
 
 </div>
 
